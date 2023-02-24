@@ -19,9 +19,9 @@ let Rasmcat = () =>{
                 <text className="text-bir5">Meet Our Team</text>
                 <div className="cart-bir5">
                     <div className="ada-cart"><img className="img-bir5" src={img1}/><Text1 item="Amanda Linda"     twxt="Executive officer"/><div className="a-link"><img src={img5}/><img src={img6}/><img src={img7}/></div></div>
-                    <div className="ada-cart"><img className="img-bir5" src={img2}/><Text1 item="Alex Smith"       twxt="Executive officer"/><div className="a-link"><img src={img5}/><img src={img6}/><img src={img7}/></div></div>
-                    <div className="ada-cart"><img className="img-bir5" src={img3}/><Text1 item=" Anthony Fauci"   twxt="Executive officer"/><div className="a-link"><img src={img5}/><img src={img6}/><img src={img7}/></div></div>
-                    <div className="ada-cart"><img className="img-bir5" src={img4}/><Text1 item=" Anthony Fauci"   twxt="Executive officer"/><div className="a-link"><img src={img5}/><img src={img6}/><img src={img7}/></div></div>
+                    <div className="ada-cart"><img className="img-bir5" src={img2}/><Text1 item="Alex Smith"       twxt="UX/UI DESIGNER"/><div className="a-link"><img src={img5}/><img src={img6}/><img src={img7}/></div></div>
+                    <div className="ada-cart"><img className="img-bir5" src={img3}/><Text1 item=" Anthony Fauci"   twxt="Web Developer"/><div className="a-link"><img src={img5}/><img src={img6}/><img src={img7}/></div></div>
+                    <div className="ada-cart"><img className="img-bir5" src={img4}/><Text1 item=" Khalid Abbed"   twxt="Head of Markter"/><div className="a-link"><img src={img5}/><img src={img6}/><img src={img7}/></div></div>
                 </div>
             </div>
        </div>
