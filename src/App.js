@@ -8,6 +8,7 @@ function App() {
      <RasmcatAA1qism/>
     <Section6/>
     <Section7/>
+    <h1>Hi</h1>
     </div>
   );
 }
