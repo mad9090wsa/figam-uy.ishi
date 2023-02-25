@@ -23,7 +23,15 @@ let Section6 = () =>{
                 <div className="kot-5"></div>
                 <img src={rasm5} className="AAA"/>
             </div>
+            <text className="asd">
+                <div className="div-cup"></div>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed leoa.</p>
+                <h1>Alina Jesia</h1>
+                <h2>DBL Company LTD</h2>
+            </text>
             </div>
+            <div className="stop"></div>
         </div>
     )
  };
