@@ -1,0 +1,97 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+ul,
+ol {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;  
+} 
+
+
+
+
+
+
+.T34 .container{
+    width: 720px;
+    height: 675px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.del{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+text-align: center;
+height: 80px;
+color: #3D3D3F;
+
+}
+.inp-ada{
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+height: 200px;
+
+}
+.li-7{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+text-transform: uppercase;
+color: #3D3D3F;
+}
+.inp-ada input{
+    width: 333.17px;
+height: 42.38px;
+left: 360px;
+top: 4561.39px;
+padding: 0 12px;
+background: #FFFFFF;
+box-shadow: 0px 4px 120px rgba(0, 0, 0, 0.03);
+border-radius: 5px;
+}
+
+textarea{
+    width: 719px;
+    height: 191px;
+}
+
+.bnt{
+
+background: linear-gradient(2.79deg, #F35F2F -13.68%, rgba(243, 95, 47, 0.75) 121.16%);
+opacity: 0.85;
+border-radius: 5px;
+width: 207px;
+height: 53px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+text-transform: uppercase;
+color: #FFFFFF;
+transform: translate(248%,45px);
+}
+
+
+
