@@ -1,11 +1,5 @@
 import React from "react";
 import "./Section-6.css";
-import rasm from "./img-png-6/Ellipse 59.png";
-import rasm1 from "./img-png-6/Ellipse 60.png";
-import rasm2 from "./img-png-6/Ellipse 61.png";
-import rasm3 from "./img-png-6/Ellipse 62.png";
-import rasm4 from "./img-png-6/Ellipse 63.png";
-import rasm5 from "./img-png-6/Ellipse 65.png";
 import rasm6 from "./img-png-6/rrr.jpg";
 let Section6 = () =>{
     return(
@@ -13,16 +7,16 @@ let Section6 = () =>{
             <div className="container">
             <text className="text-6">Testimonials</text>
             <div className="rasmimg1">
-                <img className="rasm-1" src={rasm}/>
-                <img className="rasm-2" src={rasm1}/>
+                <img className="rasm-1" src={rasm6}/>
+                <img className="rasm-2" src={rasm6}/>
                 <div className="kot1"></div>
                 <div className="kot2"></div>
-                <img className="rasm-3" src={rasm2}/>
+                <img className="rasm-3" src={rasm6}/>
                 <div className="kot-4"></div>
                 <img className="rasm-5" src={rasm6}/>
-                <img className="rasm-6" src={rasm4}/>
+                <img className="rasm-6" src={rasm6}/>
                 <div className="kot-5"></div>
-                <img src={rasm5} className="AAA"/>
+                <img src={rasm6} className="AAA"/>
             </div>
             <text className="asd">
                 <div className="div-cup"></div>
